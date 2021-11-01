@@ -15,21 +15,21 @@ Konsep 2
 **2. Dalam sebuah peta memiliki skala 1:5.000.000, jarak antara Seteng dan Labuhan Badas adalah 20 cm. Berapakah jarak sesungguhnya antara Seteng dan Labuhan Badas?**
 Konsep 1
 
-<img src="https://github.com/Mayq04/Praktikum-Individu-IV/blob/main/5.PNG" width=800>
-<img src="https://github.com/Mayq04/Praktikum-Individu-IV/blob/main/6.PNG" width=800>
+<img src="https://github.com/Mayq04/Praktikum-Individu-IV/blob/main/51.PNG" width=800>
+<img src="https://github.com/Mayq04/Praktikum-Individu-IV/blob/main/52.PNG" width=800>
 
 Konsep 2
 
-<img src="https://github.com/Mayq04/Praktikum-Individu-IV/blob/main/7.PNG" width=800>
-<img src="https://github.com/Mayq04/Praktikum-Individu-IV/blob/main/8.PNG" width=800>
+<img src="https://github.com/Mayq04/Praktikum-Individu-IV/blob/main/53.PNG" width=800>
+<img src="https://github.com/Mayq04/Praktikum-Individu-IV/blob/main/54.PNG" width=800>
 
 **3. Misalnya jika jarak antara kecematan Seteng dengan Kecamatan Labuhan Badas pada peta dengan skala batang adalah 4 ruas. Dan untuk satu ruas pada peta tersebut dianggap mewakili 1 km, maka berapakah jarak antara kedua kecamatan sesungguhnya?**
 Konsep 1
 
-<img src="" width=800>
-<img src="" width=800>
+<img src="https://github.com/Mayq04/Praktikum-Individu-IV/blob/main/9.PNG" width=800>
+<img src="https://github.com/Mayq04/Praktikum-Individu-IV/blob/main/10.PNG" width=800>
 
 Konsep 2
 
-<img src="" width=800>
-<img src="" width=800>
+<img src="https://github.com/Mayq04/Praktikum-Individu-IV/blob/main/11.PNG" width=800>
+<img src="https://github.com/Mayq04/Praktikum-Individu-IV/blob/main/12.PNG" width=800>
